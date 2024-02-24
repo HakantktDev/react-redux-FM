@@ -11,7 +11,7 @@
     "lint": "eslint \"src/**/*.{js,jsx}\" --quiet"
   },
   "keywords": [],
-  "author": "Brian Holt",
+  "author": "Hakan Tokat",
   "license": "ISC",
   "devDependencies": {
     "@testing-library/react": "^13.4.0",
